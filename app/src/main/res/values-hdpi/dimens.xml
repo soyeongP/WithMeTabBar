@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="naver">60dp</dimen>
+    <dimen name="kakao">60dp</dimen>
+    <dimen name="facebook">60dp</dimen>
+    <dimen name="logow">200dp</dimen>
+    <dimen name="alarm_x">60dp</dimen>
+    <dimen name="coin">50dp</dimen>
+    <dimen name="coin2">50dp</dimen>
+    <dimen name="coin3">50dp</dimen>
+    <dimen name="gift_x">50dp</dimen>
+    <dimen name="film_x">50dp</dimen>
+    <dimen name="peo_x">40dp</dimen>
+    <dimen name="search">25dp</dimen>
+    <dimen name="myph">50dp</dimen>
+    <dimen name="myph_x">80dp</dimen>
+    <dimen name="point">30dp</dimen>
+
+</resources>

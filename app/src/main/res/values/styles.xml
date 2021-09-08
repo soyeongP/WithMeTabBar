@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:textColor">@color/yellow</item>
+        <item name="backgroundColor">@color/lite_gray</item>
+    </style>
+    <style name="MySearchViewStyle">
+        <!--<item name="searchIcon">@drawable/plane</item>-->
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+</resources>

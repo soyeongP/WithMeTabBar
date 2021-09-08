@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/menubar_home"
+        android:enabled="true"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/action_love"
+        android:icon="@drawable/menubar_like"
+        android:enabled="true"
+        android:title="like"/>
+    <item
+        android:id="@+id/action_plus"
+        android:icon="@drawable/menubar_plus"
+        android:enabled="true"
+        android:title="make"/>
+    <item
+        android:id="@+id/action_chatroom"
+        android:icon="@drawable/menubar_chatting"
+        android:enabled="true"
+        android:title="chatting"/>
+    <item
+        android:id="@+id/action_mypage"
+        android:icon="@drawable/menubar_mypage"
+        android:enabled="true"
+        android:title="my"/>
+
+
+</menu>

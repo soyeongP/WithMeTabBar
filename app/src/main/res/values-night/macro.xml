@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="macro" tools:ignore="ExtraTranslation">
+        <item>가는 중 입니다.</item>
+        <item>늦을 것 같아요.</item>
+        <item>좋습니다.</item>
+        <item>도착 했어요.</item>
+        <item>잘부탁드려요.</item>
+        <item>재밌었습니다.</item>
+    </string-array>
+</resources>

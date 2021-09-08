@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/selectHobbyIn" >
+
+    <TextView
+        android:id="@+id/tv_hobby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="음악"
+        android:textSize="20dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewVertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+        <!--        <GridView-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="match_parent" />-->
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/toolbar_division"
+        android:background="@color/yellow"
+        android:orientation="horizontal"
+        android:layout_below="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="1dp">
+    </LinearLayout>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        />
+
+
+
+
+</LinearLayout>

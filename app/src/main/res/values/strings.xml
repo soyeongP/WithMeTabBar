@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WithMeTabBar</string>
+    <string name="home">home</string>
+
+    <string-array name="macro">
+        <item>가는 중 입니다.</item>
+        <item>늦을 것 같아요.</item>
+        <item>좋습니다.</item>
+        <item>도착 했어요.</item>
+        <item>잘부탁드려요.</item>
+        <item>재밌었습니다.</item>
+    </string-array>
+</resources>

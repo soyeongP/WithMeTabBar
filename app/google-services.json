@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431918912239",
+    "project_id": "withmetabbar-93021",
+    "storage_bucket": "withmetabbar-93021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431918912239:android:0055313f57a55e7f75c11a",
+        "android_client_info": {
+          "package_name": "com.cookandroid.withmetabbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431918912239-6v6q5lstcadfdentu1l5sg5hrmmeh2do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3hJuuIbOYWfm7ziHVbCXy632Dp31HF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431918912239-6v6q5lstcadfdentu1l5sg5hrmmeh2do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
