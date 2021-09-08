@@ -69,7 +69,7 @@ public class FragmentPlus extends Fragment {
     private String uid="";
     TimePickerDialog mTimePicker;
     private Date meetDate;
-    private int meetDateInt;//int형 데이터
+    private int meetDateInt;//int형 데이터 바꿈
 
 
 
